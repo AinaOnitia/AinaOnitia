@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AinaOnitia
 - 👀 I’m interested in programing and design
 - 💞️ I’m looking to collaborate on github
-- 👩‍🏫 Y study at INSTITUT SUPÉRIEUR POLYTECHNIQUE OF MADAGASIKARA
-- ✍️ Class IGGL 3A
+- 👩‍🏫 I study  at the University of INSTITUT SUPÉRIEUR POLYTECHNIQUE OF MADAGASIKARA
 - 📫 rafanomezantsoaina05@gmail.com
 
 <!---
